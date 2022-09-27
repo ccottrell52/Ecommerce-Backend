@@ -9,7 +9,7 @@ From there you can use insomnia to work through the functions of the database un
 
 
 
-![A test image](photos\backend picture.jpg)
+![A test image](photos/backend%20picture.jpg)
 
 
 
